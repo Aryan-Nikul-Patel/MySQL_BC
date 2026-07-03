@@ -4,7 +4,7 @@
 --
 -- 🎯 What you'll learn:
 --    - WHERE clause — filter rows
---    - Comparison operators, AND/OR/NOT
+--    - Comparison operators, AND/OR/NOT                
 --    - IN, BETWEEN, LIKE, IS NULL
 --    - ORDER BY — sort results
 --    - LIMIT / OFFSET — paginate results
