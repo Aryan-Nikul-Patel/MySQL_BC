@@ -1,6 +1,6 @@
 # 🎯 SQL Mastery — Big Tech Interview Course Index
 
-Welcome to your comprehensive SQL interview prep repository. This index page serves as your quick-reference map to navigate lessons, practice questions, and verified solutions. 
+This index page serves as your quick-reference map to navigate lessons, practice questions, and verified solutions. 
 
 > [!TIP]
 > **Clicking any file link below will open it directly in your editor.** All links use relative paths to ensure cross-platform compatibility and seamless navigation.
